@@ -1,1 +1,2 @@
-# MiPrimerRepoAFJA
+Soy Felipe Jerez y este es mi primer
+repo.
